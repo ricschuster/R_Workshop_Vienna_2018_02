@@ -1,5 +1,5 @@
 # Workshop: Statistical Analysis in R
-22. 2. – 23.2.2018   
+22.2. – 23.2.2018   
 COSB Seminar Room 2.022   
 UZA 1, Biologiezentrum, Althanstrasse 14, 1090 Wien  
 

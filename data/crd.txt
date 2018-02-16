@@ -1,0 +1,16 @@
+Treatment	Exp_unit	AveDbh
+None	10	7.50
+None	4	6.70
+None	1	7.20
+None	14	8.20
+None	3	8.60
+light	13	9.60
+light	8	8.40
+light	5	8.90
+light	2	9.60
+light	12	11.10
+heavy	11	11.40
+heavy	9	9.90
+heavy	6	10.60
+heavy	7	12.70
+heavy	15	13.50

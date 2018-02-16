@@ -3,11 +3,12 @@
 ### COSB Seminar Room 2.022
 ### UZA 1, Biologiezentrum, Althanstrasse 14, 1090 Wien  
 
-
+<br>
 
 #### Lecturers:
 #### Dr. Richard Schuster (Carleton University and University of Northern British Columbia)
 #### Dr. Matthias-Claudio Loretto (Department of Cognitive Biology, University of Vienna)  
+<br>
 
 This 2-day workshop will introduce you to the statistical program R, a freely available language and environment which provides a wide variety of statistical and graphical techniques: linear and nonlinear modelling, statistical tests, time series analysis, classification, clustering, etc.
 

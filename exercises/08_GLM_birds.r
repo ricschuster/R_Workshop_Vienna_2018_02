@@ -63,7 +63,7 @@ brcrauc@y.values[[1]]
 
 ### Concordance table ###
 ### requires custom function: "Concordance.function.r" ###
-source("Concordance.function.r")
+source("exercises/Concordance.function.r")
 Concordance(brcr_m1)
 
 ###Additional Predictors####

@@ -1,7 +1,7 @@
 
 
 #################################################################################
-# EX_OLS.R 
+# General Linear Models.R 
 # bringing in data for exercise 1 from an outside comma delimited (.csv) file 
 # converted from a EXCEL file.  If EXCEL saved as tab delimited .txt file, use 
 # treedat<- read.table("C:\\R\\FRST_430_2007_labs\\trees.txt",header=T) instead. 
@@ -52,10 +52,10 @@ head(treedat)   # first few lines of data
 #######################################################
 # write to an external file.  In this case, a csv file
 
-write.csv(treedat, "../data/volumes30_plus.csv")
+write.csv(treedat, "data/volumes30_plus.csv")
 
 # to write to a .txt file, use:
-# write.table(treedat, "../data/volumes30_plus.txt",
+# write.table(treedat, "data/volumes30_plus.txt",
 #   col.names=TRUE)
 
 

@@ -1,11 +1,8 @@
-
-
 #################################################################################
 # General Linear Models.R 
 # bringing in data for exercise 1 from an outside comma delimited (.csv) file 
 # converted from a EXCEL file.  If EXCEL saved as tab delimited .txt file, use 
-# treedat<- read.table("C:\\R\\FRST_430_2007_labs\\trees.txt",header=T) instead. 
-# instead.
+# treedat<- read.table("data/trees.txt",header=T) instead. 
 ###############################################################################
 treedat<-read.csv("data/volume30.csv", header=T) 
 

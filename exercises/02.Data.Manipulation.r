@@ -125,7 +125,7 @@ system.time(
 ###################################################
 ### Dataframe
 ###################################################
-setwd("C:\\temp\\")
+setwd("data/")
 ufc <- read.csv("ufc.csv")      # ufc is a dataframe
 is.data.frame(ufc)                      # we hope
 dim(ufc)                                # the size of the dimensions (r,c)

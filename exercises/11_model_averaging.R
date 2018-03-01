@@ -5,10 +5,7 @@
 library(MuMIn)
 
 # Example from Burnham and Anderson (2002), page 100:
-fm1 <- lm(y ~ X1 + X2 + X3 + X4, data = Cement, na.action = na.fail)
-
 fm1 <- lm(y ~ X1 + X2 + X3 + X4, data = Cement)
-
 
 options(na.action=na.fail)   # to avoid an error message
 all_models <- dredge(fm1, rank="AICc") #all model combinations

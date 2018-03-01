@@ -13,14 +13,14 @@ mod <- lmer(Richness ~ NAP + (1|Beach), dat=dat)
 summary(mod)
 
 library(lmerTest)  # get p-values 
-summary(mod <- lmer(Richness~NAP + (1|Beach), dat=dat))
+summary(mod <- lmer(Richness ~ NAP + (1|Beach), dat=dat))
 
 library(MuMIn)     # get R?
 r.squaredGLMM(mod)
 #marginal R? = variance explained by fixed factors
 #conditional R? = variance explained by fixed and random factors
 
-
+lme4::lmer()
 ##############################################################
 # diagnostics
 par(mfrow=c(2,2))
